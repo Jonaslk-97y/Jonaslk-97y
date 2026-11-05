@@ -92,9 +92,9 @@ I'm open to:
 
 ## 📫 Contact
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-- 🌐 Website: [your-site.com](https://your-site.com)
+- 📧 Email: [your-email@example.com](mailto:nghidengwajonas@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/your-handle]((https://www.linkedin.com/in/jonas-nghidengwa-a7034821a))
+- 🌐 Website: [your-site.com]((https://helium-clothing.onrender.com/))
 
 ## 📈 GitHub Stats
 

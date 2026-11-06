@@ -76,7 +76,6 @@ I'm also comfortable with **RESTful APIs**, **requirements gathering**, **softwa
 | [**uptime-monitor**](https://github.com/Jonaslk-97y) | Service uptime monitoring tool | MERN, TypeScript |
 | [**school-management-system**](https://github.com/Jonaslk-97y) | Web-based school management system | PHP |
 
-> Replace each link with the direct repository URL, e.g. `https://github.com/Jonaslk-97y/E-FarmPredict`.
 
 ## 🌾 Agri-Tech Interests
 
@@ -92,9 +91,9 @@ I'm open to:
 
 ## 📫 Contact
 
-- 📧 Email: [your-email@example.com](mailto:nghidengwajonas@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-handle]((https://www.linkedin.com/in/jonas-nghidengwa-a7034821a))
-- 🌐 Website: [your-site.com]((https://helium-clothing.onrender.com/))
+- 📧 Email:    (mailto:nghidengwajonas@gmail.com)
+- 💼 LinkedIn: ((https://www.linkedin.com/in/jonas-nghidengwa-a7034821a))
+- 🌐 Website:  ((https://helium-clothing.onrender.com/))
 
 ## 📈 GitHub Stats
 
